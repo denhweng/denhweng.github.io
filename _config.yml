@@ -1,11 +1,11 @@
 # Site settings
 author: Dan Hwang
-title: 
+title: CLI Project
 header-img: img/home-bg.png
 email: danhwangfkpc@gmail.com
 copyright_name: Dan Hwang
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Working Through My First App
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  denhweng
