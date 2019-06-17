@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Taking The Training Wheels Off"
-date:       2019-06-17 18:07:58 +0000
+date:       2019-06-17 14:07:59 -0400
 permalink:  taking_the_training_wheels_off
 ---
 
